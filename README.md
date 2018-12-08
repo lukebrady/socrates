@@ -1,2 +1,2 @@
-# socrates
-All of the code I have used to build my home datacenter.
+# Socrates
+Code for my Debian desktop environment.
